@@ -2,9 +2,9 @@
 
 Creating Lab for SQL-
 
- - create database sqli_db;
+ - create database armour_db;
  
--  use sqli_db: 
+-  use armour_db: 
  
  - CREATE TABLE users (
    id INT,
