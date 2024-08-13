@@ -2,7 +2,7 @@
 $dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "@rmour123";
-$dbname = "sqli_db";
+$dbname = "arrmour_db";
 
 $conn = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
 
