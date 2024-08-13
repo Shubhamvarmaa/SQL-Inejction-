@@ -1,4 +1,4 @@
-# SQL-Inejction-
+# SQL-Inejction
 
 Creating Lab for SQL-
 
